@@ -1,0 +1,6 @@
+streamlit
+biopython
+pandas
+plotly
+reportlab
+matplotlib
